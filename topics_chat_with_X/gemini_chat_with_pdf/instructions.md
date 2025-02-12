@@ -2,17 +2,8 @@
 # 🤖 Chat with PDF Files using Gemini AI  
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-Data%20App-red?style=flat&logo=streamlit)  
+![Streamlit](https://img.shields.io/badge/Streamlit-Data%20App-red?style=flat&logo=streamlit)
 ![AI-Powered](https://img.shields.io/badge/AI-Gemini-orange?style=flat&logo=google)
-
----
-
-<p align="left"> 
-    <img width="150" height="100" src="assets/img/pdf_icon.png">
-    <img width="150" height="100" src="assets/img/gemini_logo.png">
-</p>  
-
----
 
 ## 📌 Project Overview  
 
@@ -61,6 +52,7 @@ This project is a **Streamlit-based AI-powered chatbot** that enables users to i
  ┃ ┣ 📂 data  # Stores uploaded PDFs  
  ┣ 📜 app.py  # Streamlit App  
  ┣ 📜 requirements.txt  
+```
 
 
 
