@@ -14,7 +14,7 @@
 
 ---
 
-## 🌟 Welcome to the AI & Data Engineering Hub  
+## ✨ Welcome to the AI & Data Engineering Hub  
 
 This **repository** is a **centralized hub** for AI-driven projects, Business Intelligence tools, and automation solutions. Whether you are a **developer, data scientist, business analyst, or AI engineer**, this repo provides resources to enhance your skills and accelerate your projects.  
 
@@ -31,7 +31,7 @@ This **repository** is a **centralized hub** for AI-driven projects, Business In
 This repo is organized into multiple **sub-projects** for better navigation and reusability.  
 
 ```bash
-📦 AI_Data_Engineering_Hub  
+📦 ai-showcase-hub 
  ┣ 📂 ai_agents  
  ┃ ┣ 📜 chatbot_gemini.py        # AI Chatbot with Gemini AI  
  ┃ ┣ 📜 chatbot_copilot.py       # AI Chatbot with Microsoft Copilot  
