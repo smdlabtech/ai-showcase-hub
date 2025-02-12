@@ -1,0 +1,32 @@
+
+# 📌 Exclure les fichiers temporaires et sensibles
+
+# Dossiers temporaires et binaires
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit cache et fichiers temporaires
+.streamlit/
+.history/
+
+# Données utilisateurs et fichiers volumineux
+pdf_history/data/
+chat_results.csv
+
+# Clés API et fichiers de configuration sensibles
+*.env
+*.env_win
+*.env_windows
+*.env_mac
+*.env_mac
+
+.env
+.env_win
+.env_windows
+.env_mac
+.env_mac
+
+
+config.json
