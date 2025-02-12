@@ -1,7 +1,6 @@
 # 🚀 AI Showcase Hub
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-LLM-orange?style=flat&logo=ai)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-PowerBI-yellow?style=flat&logo=microsoft-power-bi)
 ![Automation](https://img.shields.io/badge/Automation-RPA-green?style=flat&logo=automation)
 ![AI](https://img.shields.io/badge/AI-Artificial_Intelligence-blueviolet?style=flat&logo=OpenAI)
 ![Chatbot](https://img.shields.io/badge/Chatbot-LLM--Powered-orange?style=flat&logo=chatbot)
@@ -11,7 +10,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Gemini_Api-blue?style=flat&logo=google-cloud)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-AI_Services-0078D4?style=flat&logo=microsoft-azure)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Data_App-red?style=flat&logo=streamlit)
-![Power BI](https://img.shields.io/badge/PowerBI-Business_Intelligence-yellow?style=flat&logo=powerbi)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-PowerBI-yellow?style=flat&logo=microsoft-power-bi)
 
 ---
 
