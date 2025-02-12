@@ -47,4 +47,9 @@ This repo is organized into multiple **sub-projects** for better navigation and 
  ┃ ┣ 📜 README.md                # Cloud AI Docs  
  ┣ 📜 .gitignore  
  ┣ 📜 LICENSE  
- ┣ 📜 README.md  # This file  
+ ┣ 📜 README.md  # This file
+```
+
+
+---
+> @smdlabtech  
