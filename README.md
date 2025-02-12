@@ -22,7 +22,7 @@ This **repository** is a **centralized hub** for AI-driven projects, Business In
 🔹 **Data Processing & Analytics** (Power BI, Streamlit, R Shiny)  
 🔹 **Automation & RPA** (Excel VBA, Python Scripting)  
 🔹 **Cloud-Based AI Solutions** (Azure, Google Cloud, Vertex AI)  
-🔹 **End-to-End Business Intelligence Dashboards**  
+🔹 **End-to-End Business Intelligence Dashboards with AI**  
 
 ---
 
