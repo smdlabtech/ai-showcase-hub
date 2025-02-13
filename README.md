@@ -30,7 +30,7 @@ This **repository** is a **centralized hub** for AI-driven projects, Business In
 
 This repo is organized into multiple **sub-projects** for better navigation and reusability.    
 ℹ Some repository folders are currently being developed.  
-*You may not see them here.*
+*You may not see them down below.*
 
 ```bash
 📦 ai-showcase-hub 
